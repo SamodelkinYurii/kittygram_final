@@ -1,6 +1,6 @@
 #  Как работать с репозиторием финального задания
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![example event parameter](https://github.com/SamodelkinYurii/kittygram_final/actions/workflows/main.yml/badge.svg?event=push)
 
 ## Что нужно сделать
 
@@ -25,4 +25,4 @@ dockerhub_username: ваш_логин_на_докерхабе
 - Проект Taski доступен по доменному имени, указанному в `tests.yml`.
 - Проект Kittygram доступен по доменному имени, указанному в `tests.yml`.
 - Пуш в ветку main запускает тестирование и деплой Kittygram, а после успешного деплоя вам приходит сообщение в телеграм.
-- В корне проекта есть файл `kittygram_workflow.yml`.
+- В корне проекта есть файл `kittygram_workflow.yml`. 
