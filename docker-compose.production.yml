@@ -31,3 +31,5 @@ services:
       - media:/app/static/media/
     ports:
       - 9000:80
+    depends_on:
+      - backend
