@@ -1,6 +1,6 @@
 #  Как работать с репозиторием финального задания
 
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![example event parameter](https://github.com/kittygram_final/docs/actions/workflows/main.yml/badge.svg?event=push)
   
 ## Что нужно сделать
 
